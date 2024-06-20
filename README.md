@@ -5,8 +5,8 @@ I never recommend manually modifying any system database because if a mistake is
 
 Requires SIP and AMFI to be disabled.
 
-tccplus add Camera <id>
-tccplus add Microphone <id>
+tccplus add Camera <id>  
+tccplus add Microphone <id>. 
 
 Currently can only add one or all (not recommended) services at a time. Using `reset All` is fine.
 
